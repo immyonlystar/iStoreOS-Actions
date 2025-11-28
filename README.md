@@ -34,7 +34,7 @@
 | adguardhome              | ✅   | lucky                    | ⏳     | luci-app-amlogic         | ✅   |
 | 其他                     | ⏳    |                          |       |                          |      |
 
-✅ 支持 - ⏳ 计划中 - ❌ 不支持
+✅ 支持 - ⏳ 计划中 - ⭕ 不支持
 
 </div>
 
